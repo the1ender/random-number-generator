@@ -4,6 +4,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Random number generator web app](https://www.codementor.io/projects/web/random-number-generator-web-app-bz042v8kll)
 
 ## Tech/framework used
-Built with VSCode/JavaScript, CSS, HTML
+Built with JavaScript, CSS, HTML
+Using VSCode
 
 
